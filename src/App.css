@@ -1,0 +1,196 @@
+
+
+.logo {
+  margin-top: 1.5rem;
+  margin-left: 5%;
+  height: 1.5rem;
+}
+
+.row {
+  margin: 2rem;
+}
+
+.card {
+  border-radius: 20px;
+}
+.btn {
+  background-color: white;
+  font-family: Muli;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  height: 3rem;
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.1);
+}
+.btnH {
+  border-radius: 10px;
+  padding: 2px;
+  color: black;
+  font-weight:800 ;
+}
+
+.btnCity {
+  color: #333;
+  height: 3.5rem;
+  border: #bdbdbd;
+}
+
+.btnAdd {
+  color: #bdbdbd;
+  height: 3.5rem;
+  border: #bdbdbd;
+}
+
+.btnbusca {
+  color: #eb5757;
+  height: 3.5rem;
+  border: #bdbdbd;
+}
+
+.btnMod {
+  font-family: monserrat;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: norm;
+  height: 60px;
+  border-radius: 16px;
+  border-color:#fff;
+  background: #fff;
+  text-align: left;
+  box-shadow: #333;
+  margin-bottom: 2rem;
+}
+
+.searchMod {
+  width: 150px;
+  text-align: center;
+  background: #eb5757;
+  border-color: #eb5757;
+  color: white;
+  
+}
+
+.cityMod, .guestMod {
+  color: black;
+  width: 500px;
+}
+
+
+.span {
+  color: #333;
+  font-family: Muli;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.ppal-modal {
+  max-height: 75vh;
+  margin: auto;
+}
+
+.modalheader {
+  border-bottom: none;
+}
+.modalgroup {
+  margin-left: 50rem;
+  width: 250px;
+}
+.btnCity, .btnAdd, .btnbusca {
+  border: 1px solid #ffffff;
+  padding: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.roomscity {
+  height: 7.5rem;
+}
+
+.placeBar {
+  display: flex;
+  padding: 6rem 5rem;
+  color: #333;
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.numplaceBar {
+  margin: 6rem 5rem;
+  font-weight: bold;
+}
+
+.starCard {
+  width: 1.8rem;
+}
+
+.roomCard {
+  width: 24.7rem;
+  box-sizing:border-box ;
+  border: solid #e5e7eb;
+}
+
+.card-title {
+color: #333;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.btn-guest {
+  display: flex;
+}
+
+.btn-guest h2 {
+  margin: 0rem 1rem;
+}
+
+.redstar {
+  margin-left: 5rem;
+  
+}
+
+.cities {
+  border: none;
+  font-family: monserrat;
+}
+
+.liCity {
+font-family: monserrat;
+  font-size: 20px;
+  color: #999595;
+  
+}
+
+.btnsMod {
+  margin-left: 5rem;
+}
+
+.Guests {
+  font-family: monserrat;
+  font-size: 20px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.age {
+  font-family: muli;
+  font-size: 15;
+  color: #a19e9e;
+}
+
+.counter {
+  margin-bottom: 2rem;
+}
+
+.vector{
+  background-color: red;
+
+}
